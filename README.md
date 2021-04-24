@@ -1,5 +1,7 @@
 # Método de entrada ASCII para Arduino com potenciômetro
 
+![GitHub](https://img.shields.io/github/license/jetervaz/metodo-ascii-arduino)
+
 *Escrevi esse pequeno trecho de código em 2014 para um pequeno projeto como hobby, e nunca tinha publicado por aqui. Foi publicado na iMasters uma reprodução de um artigo meu pelo Vinícius Vieira (você pode encontrar o artigo na iMasters aqui: https://imasters.com.br/iot-makers/metodo-de-entrada-ascii-com-um-potenciometro-arduino). Vou reproduzir, portanto, o mesmo artigo na sequência aqui no README.*
 
 
